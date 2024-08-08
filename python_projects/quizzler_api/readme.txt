@@ -1,0 +1,1 @@
+Gets questions from a API and ask brand new questions each time.
